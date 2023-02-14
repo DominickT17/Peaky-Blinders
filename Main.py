@@ -1,0 +1,1 @@
+print('Mi nombre es Dominick Ricardo Cifuentes Tomas con numero de carnet 1516223')
